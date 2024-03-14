@@ -5,6 +5,6 @@
 npm i
 npm run dev
 ```
-###Tech Stack
+### Tech Stack
 - React
 - Css
