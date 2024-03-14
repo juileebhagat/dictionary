@@ -1,5 +1,5 @@
-#Dictionary App
-##An Amazing Dictionary
+# Dictionary App
+## An Amazing Dictionary
 
 ```
 npm i
